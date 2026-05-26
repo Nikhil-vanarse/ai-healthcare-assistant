@@ -1,1 +1,1 @@
-"""Utility modules for MediAI"""
+"""UI Components for MediAI"""
